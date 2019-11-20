@@ -2,6 +2,6 @@
   "name": "Blogger",
   "private": true,
   "dependencies": {
-    "angular": "^1.7.8"
+    "angular": "^1.7.9"
   }
 }
